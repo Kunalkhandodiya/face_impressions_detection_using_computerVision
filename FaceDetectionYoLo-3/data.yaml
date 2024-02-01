@@ -1,0 +1,12 @@
+names:
+- Face
+nc: 1
+roboflow:
+  license: Public Domain
+  project: facedetectionyolo
+  url: https://universe.roboflow.com/uitm-student/facedetectionyolo/dataset/3
+  version: 3
+  workspace: uitm-student
+test: test/images
+train: train/images
+val: valid/images
